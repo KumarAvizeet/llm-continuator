@@ -225,4 +225,4 @@ Test matrix covers Python 3.9–3.12. All tests use mock provider clients — no
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+KUMAR — see [LICENSE](LICENSE).
