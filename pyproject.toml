@@ -7,13 +7,13 @@ name = "llm-continuator"
 version = "0.1.0"
 description = "Retry logic and output stitching for truncated LLM responses"
 readme = "README.md"
-license = { text = "MIT" }
+license = { text = "KUMAR" }
 requires-python = ">=3.9"
 keywords = ["llm", "openai", "anthropic", "truncation", "retry", "streaming"]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
+    "License :: OSI Approved :: KUMAR License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
