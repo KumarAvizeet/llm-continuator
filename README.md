@@ -3,7 +3,7 @@
 [![CI](https://github.com/kulkarniadikumar/llm-continuator/actions/workflows/ci.yml/badge.svg)](https://github.com/kulkarniadikumar/llm-continuator/actions)
 [![PyPI](https://img.shields.io/pypi/v/llm-continuator)](https://pypi.org/project/llm-continuator/)
 [![Python](https://img.shields.io/pypi/pyversions/llm-continuator)](https://pypi.org/project/llm-continuator/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: KUMAR](https://img.shields.io/badge/License-KUMAR-yellow.svg)](LICENSE)
 
 **Stop losing output to token limits.** `llm-continuator` detects when an LLM response was cut off mid-sentence, mid-code, or mid-list, automatically issues a continuation request, and stitches the parts into one coherent response — across OpenAI, Anthropic, and HuggingFace APIs.
 
